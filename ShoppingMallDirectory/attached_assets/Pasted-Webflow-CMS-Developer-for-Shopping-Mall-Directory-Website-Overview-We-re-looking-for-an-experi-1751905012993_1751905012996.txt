@@ -1,0 +1,47 @@
+Webflow CMS Developer for Shopping Mall Directory Website
+
+Overview
+- We're looking for an experienced Webflow developer/designer to build a modern, responsive
+website for a shopping mall, using Webflow CMS with support for advanced filtering, directory
+content, and marketing features.
+- The goal is to create a digital experience similar to karrinyupcentre.com.au, tailored to our mall's
+branding and services.
+
+Key Features to Implement
+- Store Directory: CMS Collection of stores (Name, Category, Subcategory, Floor/Unit, Hours,
+Directions, Image), real-time search bar, filter by category, subcategory, and floor, individual store
+detail pages.
+- Centre Map Integration: Embed an interactive SVG map or annotated floorplan, highlight stores or
+link to detail pages.
+- Events & Promotions: CMS collection for events and promotions, filters by date, type, or
+participating store.
+- Coming Soon: CMS-powered section for new store launches and expansions.
+- Gift Cards: Static or integrated gift card purchasing (e.g., via GiftUp or Square).
+- Membership: Email signup form integrated with CRM (Mailchimp, Klaviyo, or ConvertKit).
+- Feedback & Contact: Enquiry and feedback form with store dropdown, Google Maps embed, and
+trading hours.
+- Leasing Opportunities: Static page or CMS collection for leasing info, contact form, brochure
+download.
+- What's Unfolding / News: CMS blog-style updates for announcements or centre news.
+
+Required Skills
+- Strong Webflow experience with CMS Collection design.
+- Jetboost or Finsweet Attributes for real-time filtering & search.
+- Custom layout building (cards, grids, mobile responsive).
+- SVG embedding and anchor linking within Webflow.
+- Basic form handling (Zapier, Mailchimp integrations a plus).
+
+You Will Be Provided
+- Full sitemap and CMS model (PDF & Word format).
+- Sample store data in CSV.
+- Logo, brand colors, and fonts.
+- Floorplan in SVG or PDF.
+- Example websites for style and functionality.
+
+Timeline
+- Looking to complete design + development within 3-4 weeks, including revisions and QA.
+
+To Apply
+- Examples of past Webflow CMS projects.
+- Demonstrated work using filtering/search features.
+- Bonus for directory-style layouts or retail/real estate project experience.
